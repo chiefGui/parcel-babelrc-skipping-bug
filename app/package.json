@@ -1,4 +1,5 @@
 {
+  "source": true,
   "scripts": {
     "start": "parcel index.html"
   },
